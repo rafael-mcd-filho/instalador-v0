@@ -17,4 +17,4 @@ Este script instala automaticamente um projeto gerado pelo [V0.dev](https://v0.d
 Na sua VPS, execute:
 
 ```bash
-bash <(curl -sSL https://raw.githubusercontent.com/SEU-USUARIO/v0-auto-installer/main/setup.sh)
+bash <(curl -sSL https://raw.githubusercontent.com/rafael-mcd-filho/instalador-v0/main/setup.sh)
